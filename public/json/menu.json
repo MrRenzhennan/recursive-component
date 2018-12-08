@@ -1,0 +1,39 @@
+[{
+        "index": "1",
+        "slot": "title",
+        "title": "ES5.1",
+        "url": "",
+        "children": [{
+                "index": "1-1",
+                "slot": "",
+                "title": "Web脚本语言",
+                "url": "/home/1-1"
+            },
+            {
+                "index": "1-2",
+                "slot": "title",
+                "title": "语言概述",
+                "url": "",
+                "children": [{
+                        "index": "1-2-1",
+                        "slot": "",
+                        "title": "对象",
+                        "url": "/home/2-1"
+                    },
+                    {
+                        "index": "1-2-2",
+                        "slot": "",
+                        "title": "ECMAScript的严格模式变体",
+                        "url": "/home/2-2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "index": "2",
+        "slot": "title",
+        "title": "ES6",
+        "url": ""
+    }
+]
